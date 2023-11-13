@@ -1,25 +1,42 @@
 .bg-nav{
-    background-color: #fdf2c5;
+    background-color: #3a415e ;
+
 }
+
 .mt-6{
     margin-top: 6rem;
 }
 .bg-izq{
-    background-color: #efe8b2;
+    background-color: #3a415a;
+}
+.img-fluid{
+    height: 220px;
 }
 .bg-bod{
-    background-color: #82bfa0;
+    background-color: #566981;
 }
 .bg-he{
-    background-color: #fdf2c5;
+    background-color: #566981;
+    color: #cbdad5;
 }
-
+.card-body{
+    background-color: #89a7b1;
+    color: #3a415a;
+  
+}
+.card-contact{
+    background-color: #89a7b1;
+    color: #3a415a;
+}
+.card:hover{
+    background-color: #212529;
+}
 .btn-dark{
-        --bs-btn-color: #fbeec2;
-        --bs-btn-bg: #accec0;
-        --bs-btn-border-color: #accec0;
-        --bs-btn-hover-color: #605951;
-        --bs-btn-hover-bg: #fbeec2;
+        --bs-btn-color: #cbdad5;
+        --bs-btn-bg: #34344e;
+        --bs-btn-border-color: #34344e;
+        --bs-btn-hover-color:#34344e ;
+        --bs-btn-hover-bg: #566981;
         --bs-btn-hover-border-color: #c1b398;
         --bs-btn-focus-shadow-rgb: 66,70,73;
         --bs-btn-active-color: #fff;
@@ -29,4 +46,7 @@
         --bs-btn-disabled-color: #fff;
         --bs-btn-disabled-bg: #212529;
         --bs-btn-disabled-border-color: #212529;
+    }
+    .bg-con{
+        background-color: #cbdad5;
     }
